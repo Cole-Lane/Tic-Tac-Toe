@@ -14,4 +14,4 @@ The classic game, written in Python. More info on [WikiPedia](https://en.wikiped
 - Asks for the user(s) name(s)
   - Then prompts the user to enter the number associated with the squares on the board for their move (see below)
   
-![alt text](assets\Numbered Squares on Tic-Tac-Toe.jpg "Numbered Squares")
+![alt text](https://github.com/Cole-Lane/Tic-Tac-Toe/blob/acb5961ae8ac637cde116669c9d25641291710ba/assets/Numbered%20Squares%20on%20Tic-Tac-Toe.jpg "Numbered Squares")
